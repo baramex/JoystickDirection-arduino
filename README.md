@@ -4,9 +4,11 @@
 - start your ide and enjoy!
 
 ## with arduino ide ##
-- Sketch -> Include Library -> Add.ZIP Library and select this!
+- extract this
+- compress the folder JoystickDirection
+- Sketch -> Include Library -> Add.ZIP Library and JoystickDirection.zip
 
 ## infos ##
 Licence: lgpl-3.0<br/>
 Author: baramex<br/>
-Github: https://github.com/baramex<br/>
+Github: https://github.com/baramex
