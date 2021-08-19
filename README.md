@@ -7,6 +7,6 @@
 - Sketch -> Include Library -> Add.ZIP Library and select this!
 
 ## infos ##
-Licence: lgpl-3.0
-Author: baramex
-Github: https://github.com/baramex
+Licence: lgpl-3.0<br/>
+Author: baramex<br/>
+Github: https://github.com/baramex<br/>
