@@ -8,6 +8,6 @@
 [![](https://img.shields.io/github/license/baramex/JoystickDirection-arduino?style=for-the-badge)](https://choosealicense.com/licenses/lgpl-3.0/)
 [![](https://img.shields.io/badge/author-baramex-red?style=for-the-badge)](https://github.com/baramex/)
 
-<h1>Install</h1>
+<h1>Installation</h1>
 
 [Download the latest release and follow the instructions](https://github.com/baramex/JoystickDirection-arduino/releases/latest/)
