@@ -10,12 +10,4 @@
 
 <h1>Install</h1>
 
-## Manually ##
-- extract this
-- place the folder JoystickDirection in documents/Arduino/libraries/
-- start your ide and enjoy!
-
-## with arduino ide ##
-- extract this
-- compress the folder JoystickDirection
-- Sketch -> Include Library -> Add.ZIP Library and JoystickDirection.zip
+[Download the latest release and follow the instructions](https://github.com/baramex/JoystickDirection-arduino/releases/latest/)
