@@ -1,3 +1,9 @@
+/*
+#####  JoystickDirection lib arduino #####
+#          Developed by Baramex          #
+### github: https://github.com/baramex ###
+*/
+
 #include "JoystickDirection.h"
 
 String directionToString(Direction direction) {

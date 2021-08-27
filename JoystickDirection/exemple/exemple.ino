@@ -1,6 +1,6 @@
 /*
 ##### exemple code JoystickDirection #####
-#          Developped by Baramex         #
+#          Developed by Baramex         #
 ### github: https://github.com/baramex ###
 
 Licence: lgpl-3.0
@@ -23,13 +23,13 @@ void setup() {
 }
 
 void loop() {
-	//directionToString() to get direction in string (replace 1, 2, 3... by CENTER, LEFT, RIGHT...)
+	//directionToString() to get direction in string
 
 	//GetLowerDirection() to CENTER, RIGHT, LEFT, TOP, BOTTOM
-	Serial.println("Soft direction: " + directionToString(myJoystick.GetLowerDirection()));
+	Serial.print("Soft direction: " + directionToString(myJoystick.GetLowerDirection()) + " -- ");
 
 	//GetFullDirection() to CENTER, RIGHT, LEFT, TOP, BOTTOM, RIGHT_BOTTOM, RIGHT_TOP, LEFT_BOTTOM, LEFT_TOP
-	Serial.println("Full direction: " + directionToString(myJoystick.GetFullDirection()));
+	Serial.print("Full direction: " + directionToString(myJoystick.GetFullDirection()) + " -- ");
 
 	//IsPressed() to get SW button
 	Serial.println("Is pressed: " + (String)(myJoystick.IsPressed() ? "TRUE" : "FALSE"));
