@@ -1,4 +1,5 @@
 ## infos ##
+[![](https://tokei.rs/b1/github/baramex/JoystickDirection-arduino)]()<br/>
 [![](https://img.shields.io/github/languages/top/baramex/JoystickDirection-arduino?style=for-the-badge)]()
 
 [![](https://img.shields.io/github/downloads/baramex/JoystickDirection-arduino/total?style=for-the-badge)](https://github.com/baramex/JoystickDirection-arduino/releases/)
